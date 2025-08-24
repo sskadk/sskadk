@@ -8,26 +8,26 @@
 
 ## 🛠️ Tech Stack  
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 
 ---
 
 ## 📌 Featured Projects  
 
-🔹 [**Shopstik**](https://github.com/sskadk/shopstik) — A modular e-commerce platform with role-based dashboards (Admin, Vendor, Customer, Delivery).  
-🔹 [**Taskly**](https://github.com/sskadk/taskly) — Task management app with user authentication and CRUD operations.  
-🔹 [**Portfolio Website**](https://github.com/sskadk/portfolio) — Personal portfolio website built with Django & Tailwind.  
+🔹 [**Shopstik**](https://shopstik.pythonanywhere.com/) — A modular e-commerce platform with role-based dashboards (Admin, Vendor, Customer, Delivery).  
+🔹 [**Notes App**](https://swastikadk.pythonanywhere.com/) — A fast, clean platform to manage personal notes with real-time updates and organization tools.
+🔹 [**Portfolio Website**](https://swastikadhikari.com.np/) — Personal portfolio website built with Django & Tailwind.  
 
 ---
 
@@ -49,8 +49,8 @@
 ## 🤝 Connect With Me  
 
 🌐 Portfolio: [swastikadhikari.com.np](https://swastikadhikari.com.np)  
-💼 LinkedIn: [linkedin.com/in/swastikadhikari](https://linkedin.com/in/swastikadhikari)  
-📧 Email: swastik@example.com  
+💼 LinkedIn: [linkedin.com/in/sskadk](https://linkedin.com/in/sskadk)  
+📧 Email: adk.swastik246@gmail.com
 
 ---
 
