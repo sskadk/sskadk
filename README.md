@@ -26,7 +26,9 @@
 ## 📌 Featured Projects  
 
 🔹 [**Shopstik**](https://shopstik.pythonanywhere.com/) — A modular e-commerce platform with role-based dashboards (Admin, Vendor, Customer, Delivery).  
+
 🔹 [**Notes App**](https://swastikadk.pythonanywhere.com/) — A fast, clean platform to manage personal notes with real-time updates and organization tools.
+
 🔹 [**Portfolio Website**](https://swastikadhikari.com.np/) — Personal portfolio website built with Django & Tailwind.  
 
 ---
