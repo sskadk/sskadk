@@ -1,4 +1,3 @@
-# 👋 Hello Everyone, I'm Swastik Adhikari  
 
 💻 A passionate **Django Developer | Python Enthusiast | Full-Stack Explorer**  
 🌱 Currently learning **Cloud Deployment & DevOps**  
