@@ -7,32 +7,53 @@
 ---
 
 ## 🛠️ Tech Stack  
-- **Languages:** Python, JavaScript, HTML, CSS, SQL  
-- **Frameworks & Libraries:** Django, Django REST Framework, Bootstrap, Tailwind  
-- **Databases:** PostgreSQL, MySQL, SQLite  
-- **Tools & Platforms:** Git, GitHub, Docker, Render, PythonAnywhere, Cloudflare  
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 
 ---
 
 ## 📌 Featured Projects  
-🔹 [**Shopstik**]  A modular e-commerce platform with role-based dashboards (Admin, Vendor, Customer, Delivery).  
-🔹 [**Taskly**] Task management app with user authentication and CRUD operations.  
-🔹 [**Portfolio Website**]  Personal portfolio website built with Django & Tailwind.  
+
+🔹 [**Shopstik**](https://github.com/sskadk/shopstik) — A modular e-commerce platform with role-based dashboards (Admin, Vendor, Customer, Delivery).  
+🔹 [**Taskly**](https://github.com/sskadk/taskly) — Task management app with user authentication and CRUD operations.  
+🔹 [**Portfolio Website**](https://github.com/sskadk/portfolio) — Personal portfolio website built with Django & Tailwind.  
 
 ---
 
 ## 📊 GitHub Stats  
-![Swastik's GitHub stats](https://github-readme-stats.vercel.app/api?username=sskadk&show_icons=true&theme=radical)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sskadk&layout=compact&theme=radical)  
+![Swastik's GitHub stats](https://github-readme-stats.vercel.app/api?username=sskadk&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sskadk&layout=compact&theme=tokyonight)  
+
+![GitHub Streak](https://streak-stats.demolab.com?user=sskadk&theme=tokyonight&border_radius=5&date_format=M%20j%5B%2C%20Y%5D)  
+
+---
+
+## 📈 Activity Graph  
+
+![Swastik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sskadk&theme=tokyo-night)  
 
 ---
 
 ## 🤝 Connect With Me  
-- 🌐 Portfolio: [swastikadhikari.com.np](https://swastikadhikari.com.np)  
-- 💼 LinkedIn: [linkedin.com/in/sskadk](https://linkedin.com/in/sskadk)  
-- 📧 Email: adk.swastik246@gmail.com  
+
+🌐 Portfolio: [swastikadhikari.com.np](https://swastikadhikari.com.np)  
+💼 LinkedIn: [linkedin.com/in/swastikadhikari](https://linkedin.com/in/swastikadhikari)  
+📧 Email: swastik@example.com  
 
 ---
+
+![Visitors](https://komarev.com/ghpvc/?username=sskadk&style=for-the-badge)  
 
 ⭐️ *Feel free to explore my repositories, raise issues, or collaborate on exciting projects!*  
